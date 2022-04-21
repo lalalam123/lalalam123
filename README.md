@@ -1,6 +1,6 @@
 - 👋 Hi, this is @lalalam123
 - 👀 I’m a computer science student in The Chinese University of Hong Kong
-- 🌱 I’m currently learning how to survive.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (Don't reach me)
 
