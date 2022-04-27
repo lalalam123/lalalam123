@@ -1,4 +1,4 @@
-- 👋 Hi, this is @lalalam123
+- 👋 Hi, this is Chan Sik Lam 1155159276.
 - 👀 I’m a computer science student in The Chinese University of Hong Kong
 - 🌱 I’m currently learning data structure and computer organisation.
 - 🍁 I'm interested in Web and App Front-end Development.
