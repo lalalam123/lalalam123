@@ -4,7 +4,7 @@
 - 🍁 I'm interested in Web and App Front-end Development.
 - 😿 I'm working on my assignment of CSCI3251.
 - 😴 My hobby is sleeping.
-- - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (Don't reach me)
 Thank you.
 
