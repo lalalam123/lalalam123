@@ -48,16 +48,33 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
   
+  <a href="https://tanstack.com/query/v4" target="_blank" rel="noreferrer"> 
+    <img src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="react-query" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/max/730/1*d2zLEjERsrs1Rzk_95QU9A.png" alt="express" height="40"/>   
+  </a>
   
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
   
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>   
-  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="OpenAPI" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://shopify.dev/api/liquid" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsNyvKqBK4nvDwVwuz9FOykSFVovFwYfRw&usqp=CAU" alt="shopify-liquid" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.postman.com/explore" target="_blank" rel="noreferrer"> 
+    <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman API" width="40" height="40"/> 
+  </a> 
+  
 </p>
 
 <p align="center">
