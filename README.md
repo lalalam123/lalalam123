@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm lalalam123</h1>
-<h3 align="center">A computer science student</h3>
-<h3 align="center">🌱 I’m currently learning full stack web development</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+![Header](./github-header-image.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🇭🇰 I’m from Hong Kong and currently at University of Calgary as an exchange student. 🇭🇰</h3>
+<h3 align="center">❤️‍🔥 I am interested in Fullstack Web Development ❤️‍🔥</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+
+<h3 align="center">💻 Languages and Tools 💻</h3>
 <p align="center"> 
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -77,6 +81,7 @@
   
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalalam123&show_icons=true&locale=en&layout=compact" alt="lalalam123" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalalam123&show_icons=true&locale=en&layout=compact" alt="lalalam123" /> -->
+<!-- </p> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
