@@ -6,7 +6,7 @@
 - Senior Undergrad Computer Science Student at CUHK 💻 
 - I was born and grow in Hong Kong 🇭🇰
 - Currently exchange at University of Calgary 🍁
-- I'm interested in Fullstack Web Development and Artificial Intelligence ❤️‍🔥
+- Interested in Fullstack Web Development and Artificial Intelligence ❤️‍🔥
 - Checkout my [Figma Community Profile](https://www.figma.com/@chansiklam_hi) 🧑‍🎨
 
 ### Connect with me
