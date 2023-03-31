@@ -1,6 +1,7 @@
-<img src="./github-header-image.png" />
-
 ## 🤤 About Myself
+
+<img align="right" alt="Coding" height="120"  src="./github-header-image.png">
+
 - Please Call Me Jerry 🍁
 - Senior Undergrad Computer Science Student at CUHK 💻 
 - I was born and grow in Hong Kong 🇭🇰
