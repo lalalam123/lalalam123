@@ -1,20 +1,40 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
-![Header](./github-header-image.png)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+### 🤤 About Myself
+- Please Call Me Jerry 🍁 
+- Senior Undergrad Computer Science Student at CUHK 💻 
+- I was born and grow in Hong Kong 🇭🇰
+- Currently exchange at University of Calgary 🍁
+- I'm interested in Fullstack Web Development and Artificial Intelligence ❤️‍🔥
 
-<h3 align="center">🇭🇰 I’m from Hong Kong and currently at University of Calgary as an exchange student. 🇭🇰</h3>
-<h3 align="center">❤️‍🔥 I am interested in Fullstack Web Development ❤️‍🔥</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+### 😆 Connect with me:
 
-<h3 align="center">💻 Languages and Tools 💻</h3>
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+### 💻 Languages and Tools
 <p align="center"> 
+  
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tensorflow/tensorflow-original.svg" alt="figma" width="40" height="40"/>
+  
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -45,7 +65,7 @@
   </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -57,7 +77,7 @@
   </a> 
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  </a>
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  </a>
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://miro.medium.com/max/730/1*d2zLEjERsrs1Rzk_95QU9A.png" alt="express" height="40"/>   
@@ -93,3 +113,10 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@chansiklam_hi)
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
