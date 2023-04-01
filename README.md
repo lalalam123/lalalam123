@@ -1,6 +1,8 @@
 ## 🤤 About Myself
 
-<img align="right" alt="Coding" height="120"  src="./github-header-image.png">
+<a href="https://leetcode.com/lalalam123">
+<img align="right" alt="Coding" height="280"  src="https://leetcard.jacoblin.cool/lalalam123?ext=contest">
+</a>
 
 - Please Call Me Jerry 🍁
 - Senior Undergrad Computer Science Student at CUHK 💻 
