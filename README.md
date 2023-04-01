@@ -11,20 +11,20 @@
 
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://www.youtube.com/@chansiklam_hi#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.youtube.com/@chansiklam_hi#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@chansiklam_hi#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@chansiklam_hi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://www.youtube.com/@chansiklam_hi#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://www.youtube.com/@chansiklam_hi#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chan-sik-lam/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chan-sik-lam/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.youtube.com/@chansiklam_hi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.youtube.com/@chansiklam_hi#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
 
 ### Languages and Tools
 <p> 
