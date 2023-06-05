@@ -5,10 +5,14 @@
 </a>
 
 - Please Call Me Jerry 🍁
-- Senior Undergrad Computer Science Student at CUHK 💻 
-- I was born and grow in Hong Kong 🇭🇰
-- Currently exchange at University of Calgary 🍁
-- Interested in Fullstack Web Development and A.I. ❤️‍🔥
+- I was born and grow in Hong Kong 🇭🇰 
+- 1+ year experience in Fullstack Web Development 💻
+- Senior Undergrad Computer Science Student at CUHK, Stream: Intelligence Science 🏠 
+- Interested in Cloud, Cyber Security, Human-Computer Interaction, A.I. and more ❤️‍🔥
+- Former exchange student at University of Calgary, Canada 🇨🇦
+- World Explorer: 🇭🇰 🇨🇦 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇮🇸 🇬🇧 🇧🇪 🇨🇭 🇯🇵 🇸🇬 ... and more
+
+
 - Checkout my [Figma Community Profile](https://www.figma.com/@chansiklam_hi) 🧑‍🎨
 
 ### Connect with me
