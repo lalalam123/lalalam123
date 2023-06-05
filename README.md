@@ -7,8 +7,8 @@
 - Please Call Me Jerry 🍁
 - I was born and grow in Hong Kong 🇭🇰 
 - 1+ year experience in Fullstack Web Development 💻
-- Senior Undergrad Computer Science Student at CUHK, Stream: Intelligence Science 🏠 
-- Interested in Cloud, Cyber Security, Human-Computer Interaction, A.I. and more ❤️‍🔥
+- Senior Undergrad Computer Science Student at CUHK 🏠 
+- Interested in Cloud, Cyber Security, Human-Computer Interaction, A.I. ❤️‍🔥
 - Former exchange student at University of Calgary, Canada 🇨🇦
 - World Explorer: 🇭🇰 🇨🇦 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇮🇸 🇬🇧 🇧🇪 🇨🇭 🇯🇵 🇸🇬 ... and more
 
