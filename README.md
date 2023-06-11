@@ -1,7 +1,7 @@
 ## 🤤 About Myself
 
 <a href="https://leetcode.com/lalalam123">
-<img align="right" alt="Coding" height="260"  src="https://leetcard.jacoblin.cool/lalalam123?ext=contest">
+<img align="right" alt="Coding" height="260" src="https://leetcard.jacoblin.cool/lalalam123?ext=contest" target="_blank" rel="noopener noreferrer">
 </a>
 
 - Please Call Me Jerry 🍁
@@ -10,10 +10,8 @@
 - Senior Undergrad Computer Science Student at CUHK 🏠 
 - Interested in Cloud, Cyber Security, Human-Computer Interaction, A.I. ❤️‍🔥
 - Former exchange student at University of Calgary, Canada 🇨🇦
-- World Explorer: 🇭🇰 🇨🇦 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇮🇸 🇬🇧 🇧🇪 🇨🇭 🇯🇵 🇸🇬 ... and more
-
-
-- Checkout my [Figma Community Profile](https://www.figma.com/@chansiklam_hi) 🧑‍🎨
+- World Explorer: 🇭🇰 🇨🇦 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇮🇸 🇬🇧 🇧🇪 🇨🇭 🇯🇵 ... and more
+- Checkout my <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma Ccommunity Profile</a> 🧑‍🎨
 
 ### Connect with me
 
