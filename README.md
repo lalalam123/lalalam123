@@ -64,6 +64,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[Eng Sub] 🇨🇦🍁黃刀極光探險記 🇨🇦🍁｜北極光｜星空｜極地露營｜黃刀鎮美食｜體驗加拿大原住民生活](https://www.youtube.com/watch?v=bezExhejpK4)
+- [🇨🇦❤️‍🔥不走套路的卡加利大學交流生❤️‍🔥🇨🇦 #UniversityofCalgary #Exchage #student #life #campustour #PokémonGo #加拿大](https://www.youtube.com/watch?v=fcf9pkJfDRg)
+- [🇨🇦🍁黃刀極光探險記 🇨🇦🍁｜北極光｜星空｜極地露營｜黃刀鎮美食｜體驗加拿大原住民生活](https://www.youtube.com/watch?v=bezExhejpK4)
 - [✈️ 🇨🇦 Toronto Travel VLog 🇨🇦 ✈️ | 萬眾期待等咗三個幾月先出到的第一條片 | 多倫多驚現美國著名YouTuber｜卡加利留學生去多倫多是否搞錯了什麼](https://www.youtube.com/watch?v=zs39mt_Ul_I)
 <!-- YOUTUBE:END -->
