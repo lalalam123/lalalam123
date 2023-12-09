@@ -4,14 +4,12 @@
 <img align="right" alt="Coding" height="260" src="https://leetcard.jacoblin.cool/lalalam123?ext=contest" target="_blank" rel="noopener noreferrer">
 </a>
 
-- Please Call Me Jerry 🍁
-- I was born and grow in Hong Kong 🇭🇰 
-- 1+ year experience in Fullstack Web Development 💻
-- Senior Undergrad Computer Science Student at CUHK 🏠 
-- Interested in Cloud, Cyber Security, Human-Computer Interaction, A.I. ❤️‍🔥
+- I'm Jerry 🍁 Made in Hong Kong 🇭🇰
+- Web Dev, Cloud, Cyber Security, A.I. ❤️‍🔥
+- Penultimate B.Sc. Computer Science @ CUHK 💻
 - Former exchange student at University of Calgary, Canada 🇨🇦
 - World Explorer: 🇭🇰 🇨🇦 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇮🇸 🇬🇧 🇧🇪 🇨🇭 🇯🇵 ... and more
-- Checkout my <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma Ccommunity Profile</a> 🧑‍🎨
+- See my <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a> 🧑‍🎨
 
 ### Connect with me
 
