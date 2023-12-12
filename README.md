@@ -1,7 +1,7 @@
 ## 🤤 About Myself
 
 <a href="https://leetcode.com/lalalam123">
-<img align="right" alt="Coding" height="260" src="https://leetcard.jacoblin.cool/lalalam123?theme=unicorn" target="_blank" rel="noopener noreferrer" width="300px">
+<img align="right" alt="Coding" height="260" src="https://leetcard.jacoblin.cool/lalalam123?theme=unicorn" target="_blank" rel="noopener noreferrer" width="60%">
 </a>
 
 - I'm Jerry, Made in Hong Kong 🇭🇰 🍁
