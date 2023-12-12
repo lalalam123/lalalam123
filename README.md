@@ -1,63 +1,63 @@
 ## 🤤 About Myself
 
 <a href="https://leetcode.com/lalalam123">
-<img align="right" alt="Coding" height="260" src="https://leetcard.jacoblin.cool/lalalam123?ext=contest" target="_blank" rel="noopener noreferrer">
+<img align="right" alt="Coding" height="260" src="https://leetcard.jacoblin.cool/lalalam123?theme=unicorn" target="_blank" rel="noopener noreferrer">
 </a>
 
-- I'm Jerry 🍁 Made in Hong Kong 🇭🇰
+- I'm Jerry, Made in Hong Kong 🇭🇰 🍁
 - Web Dev, Cloud, Cyber Security, A.I. ❤️‍🔥
-- Penultimate B.Sc. Computer Science @ CUHK 💻
-- Former exchange student at University of Calgary, Canada 🇨🇦
-- World Explorer: 🇭🇰 🇨🇦 🇩🇰 🇫🇮 🇳🇴 🇸🇪 🇮🇸 🇬🇧 🇧🇪 🇨🇭 🇯🇵 ... and more
+- B.Sc.Computer Science @ CUHK 💻
+- Ex-exchange at UCalgary, Canada 🇨🇦
 - See my <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a> 🧑‍🎨
+- World Explorer: 🇭🇰🇨🇦🇩🇰🇫🇮🇳🇴🇸🇪🇬🇧🇧🇪🇨🇭🇯🇵...more
 
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@chansiklam_hi#gh-light-mode-only)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@chansiklam_hi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@chansiklam_hi#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@chansiklam_hi#gh-dark-mode-only)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-sik-lam/#gh-light-mode-only)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-sik-lam/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chan-sik-lam/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chan-sik-lam/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://youtu.be/zs39mt_Ul_I#gh-light-mode-only)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://youtu.be/zs39mt_Ul_I#gh-dark-mode-only)
 
-### Languages and Tools
-<p> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" alt="figma" width="26px" height="26px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/npm/npm-original-wordmark.svg" alt="figma" width="26px" height="26px" style="padding-right:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/c/c-original.svg" alt="c" width="26px" height="26px" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26px" height="26px" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26px" height="26px" style="padding-right:10px;"/>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="javascript" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" height="26px" style="padding-right:10px;"/>
-  <img src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="react-query" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26px" height="26px" style="padding-right:10px;"/>
-  <img src="https://miro.medium.com/max/730/1*d2zLEjERsrs1Rzk_95QU9A.png" alt="express" width="26px" style="padding-right:10px;"/>   
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="OpenAPI" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDsNyvKqBK4nvDwVwuz9FOykSFVovFwYfRw&usqp=CAU" alt="shopify-liquid" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman API" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/sqlite/sqlite-original.svg" alt="shopify-liquid" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="shopify-liquid" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="shopify-liquid" width="26px" height="26px" style="padding-right:10px;"/> 
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tensorflow/tensorflow-original.svg" alt="shopify-liquid" width="26px" height="26px" style="padding-right:10px;"/> 
+### WEB DEV & CLOUD
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalalam123&show_icons=true&locale=en&layout=compact" alt="lalalam123" />
-</p> -->
+### AI/ML/DL
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### DATABASE
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### TOOLS
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 ## 📺 Latest YouTube Videos
 
