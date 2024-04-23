@@ -1,24 +1,39 @@
-## Hi 🍁 This is Jerry (Made in Hong Kong 🇭🇰)
-- I do Web Development & UI UX Design -> <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a>❤️‍🔥
-- Currently a BSc Comp Sci Student at CUHK 💻  + Ex-exchanger at UCalgary, Canada 🇨🇦
+----
+### 🍁 Hi, I'm Jerry! &nbsp;&nbsp;&#12299;Made in Hong Kong 🇭🇰
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![ts](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![nextjs](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=Next.js&color=36465D&logoColor=AAA&style=flat-square)
+![reactjs](https://img.shields.io/static/v1?logo=react&label=&message=React.js&color=36465D&logoColor=AAA&style=flat-square)
+![nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=Node.js&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=AWS&color=36465D&logoColor=AAA&style=flat-square)
+![azure](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=Azure&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/chansiklam">
+  <img align="left" alt="Jerry's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://www.youtube.com/@chansiklam_hi">
+  <img align="left" alt="Jerry's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://www.youtube.com/@chansiklam_hi">
+  <img align="left" alt="Jerry's Youtube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
+</a>
+<a href="mailto:jerrychan2206@gmail.com">
+  <img align="left" alt="Jerry's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
+</a>
 
-##
+**B.Sc CompSci Student** &#12299;_Currently at CUHK 🇭🇰 // Ex-exchanger at UCalgary, Canada 🇨🇦_
+<br/>
+**Software Engineer** &#12299;_Hobbies: Machine Learning, Deep Learning, Cyber Security, Web Development, UI UX Design -> <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a>❤️‍🔥_
 
-<div> 
-  <a href="https://www.youtube.com/@chansiklam_hi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@chansiklam_hi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jerrychan2206@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/chan-sik-lam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+----
+
+
   
 ## 📺 Latest YouTube Videos
 
