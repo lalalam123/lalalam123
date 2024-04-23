@@ -4,12 +4,6 @@
 <a href="https://linkedin.com/in/chansiklam">
   <img align="left" alt="Jerry's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://www.youtube.com/@chansiklam_hi">
-  <img align="left" alt="Jerry's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://www.youtube.com/@chansiklam_hi">
-  <img align="left" alt="Jerry's Youtube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
-</a>
 <a href="mailto:jerrychan2206@gmail.com">
   <img align="left" alt="Jerry's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
@@ -28,7 +22,7 @@
 
 **B.Sc CompSci Student** &#12299;_Currently at CUHK 🇭🇰 // Ex-exchanger at UCalgary, Canada 🇨🇦_
 <br/>
-**Software Engineer** &#12299;_Hobbies: Machine Learning, Deep Learning, Cyber Security, Web Development, UI UX Design -> <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a>❤️‍🔥_
+**Software Engineer** &#12299;_AI, ML, DL, Cloud, Cyber Security, Web Development, UI UX Design -> <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a>❤️‍🔥_
 
 ----
   
