@@ -17,7 +17,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![ts](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![nextjs](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=Next.js&color=36465D&logoColor=AAA&style=flat-square)
 ![reactjs](https://img.shields.io/static/v1?logo=react&label=&message=React.js&color=36465D&logoColor=AAA&style=flat-square)
