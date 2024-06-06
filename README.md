@@ -39,9 +39,9 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Ambassador Video](https://www.youtube.com/watch?v=_wdwzU5QkBc)
 - [2023 海外交流有咩玩 一分鐘精華 &lpar;第二季 預告片&rpar;](https://www.youtube.com/watch?v=tuAM1p_Y1Ok)
 - [SEEM3510 HCI ASM4 Chan Sik Lam 1155159276](https://www.youtube.com/watch?v=YdKaeT7hV70)
 - [🎓中大畢業禮 2023🎓 2020DSE考生的獨白](https://www.youtube.com/watch?v=1cXGKkuAerM)
 - [🇨🇦❤️‍🔥不走套路的卡加利大學交流生❤️‍🔥🇨🇦 #UniversityofCalgary #Exchage #student #life #campustour #PokémonGo #加拿大](https://www.youtube.com/watch?v=fcf9pkJfDRg)
-- [🇨🇦🍁黃刀極光探險記 🇨🇦🍁｜北極光｜星空｜極地露營｜黃刀鎮美食｜體驗加拿大原住民生活](https://www.youtube.com/watch?v=bezExhejpK4)
 <!-- YOUTUBE:END -->
