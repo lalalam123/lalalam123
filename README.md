@@ -27,10 +27,10 @@
 ### 📹 I also make YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [I Ambassador Video](https://www.youtube.com/watch?v=_wdwzU5QkBc)
-- [2023 海外交流有咩玩 一分鐘精華 &lpar;第二季 預告片&rpar;](https://www.youtube.com/watch?v=tuAM1p_Y1Ok)
+- [I Ambassador Video &lpar;I House最後都係唔收我，雖然最後都住到 I House&rpar;](https://www.youtube.com/watch?v=_wdwzU5QkBc)
+- [我應該冇時間剪片了😭唯有整個一分鐘精華得閒回憶下&lpar;多謝大家&rpar;](https://www.youtube.com/watch?v=tuAM1p_Y1Ok)
 - [SEEM3510 HCI ASM4 Chan Sik Lam 1155159276](https://www.youtube.com/watch?v=YdKaeT7hV70)
-- [🎓中大畢業禮 2023🎓 2020DSE考生的獨白](https://www.youtube.com/watch?v=1cXGKkuAerM)
+- [🎓中大畢業禮 2023🎓 2020DSE考生的獨白 &lpar;精神錯亂，未食藥&rpar;](https://www.youtube.com/watch?v=1cXGKkuAerM)
 - [🇨🇦❤️‍🔥不走套路的卡加利大學交流生❤️‍🔥🇨🇦 #UniversityofCalgary #Exchage #student #life #campustour #PokémonGo #加拿大](https://www.youtube.com/watch?v=fcf9pkJfDRg)
 <!-- YOUTUBE:END -->
 
