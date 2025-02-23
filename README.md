@@ -1,9 +1,9 @@
 ### 🍁 Hi, I'm Jerry!
 
-- **🇭🇰 Education: CUHK B.Sc CompSci Student (2020-2024)**
+- **🇭🇰 Education: CUHK B.Sc CompSci Student (2020-2025)**
 - **🇨🇦 Experience: Ex-exchanger at UCalgary (Winter 2023)**
-- **☁️ Work: Cloud AI Engineer** &#12299;_Building AI solutions to help people_
-- **💻 Side Projects: Web-based development & UI/UX Design** >> <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a>
+- **☁️ Work: Software Engineer** &#12299;_In short: Building AI SaaS to help people_
+- **💻 Skills: Mostly frontend, with some backend, sometimes DevOps, Cloud, AI, System Design or even UI/UX Design** >> <a href="https://www.figma.com/@chansiklam_hi" target="_blank" rel="noopener noreferrer">Figma</a>
 
 ### 🌟 Top Skills
 
@@ -37,14 +37,14 @@
 ### ☎️ Social Media
 
 <a href="https://linkedin.com/in/chansiklam">
-  <img align="left" alt="Jerry's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Jerry's LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
 </a>
 <a href="https://www.youtube.com/@chansiklam_hi">
-  <img align="left" alt="Jerry's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Jerry's Instagram" width="20px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />
 </a>
 <a href="https://www.youtube.com/@chansiklam_hi">
-  <img align="left" alt="Jerry's Youtube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
+  <img align="left" alt="Jerry's Youtube" width="20px" src="https://cdn-icons-png.flaticon.com/128/3938/3938026.png" />
 </a>
 <a href="mailto:jerrychan2206@gmail.com">
-  <img align="left" alt="Jerry's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
+  <img align="left" alt="Jerry's Email" width="20px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
 </a>
